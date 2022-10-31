@@ -1,0 +1,47 @@
+name: malek mohamed amin sayed 
+ID : 20180209 
+3DS-S1
+----------------------------------------------
+name: mostafa sayed 
+ID : 20180277
+name: fatma saber 
+ID : 20180196
+
+the run is 
+
+
+enter knightPos x 
+0
+enter knightPos y
+0
+enter targetPos x 
+6
+enter targetPos y
+6
+Enter number of Obstacles 
+6
+Enter Obstacle X 
+1
+Enter Obstacle Y 
+4
+Enter Obstacle X 
+2
+Enter Obstacle Y 
+2
+Enter Obstacle X 
+6
+Enter Obstacle Y 
+2
+Enter Obstacle X 
+4
+Enter Obstacle Y 
+4
+Enter Obstacle X 
+1
+Enter Obstacle Y 
+5
+Enter Obstacle X 
+3
+Enter Obstacle Y 
+7
+minimum number of steps to target = 4
